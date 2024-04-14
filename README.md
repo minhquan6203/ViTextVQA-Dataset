@@ -1,7 +1,7 @@
 ViTextVQA: Vietnamese Text-based Visual Question Answering
 =====
 
-![examples](examples.pdf)
+![examples](examples.PNG)
 
 # ViTextVQA Dataset
 
@@ -69,10 +69,10 @@ If you use ViTextVQA in your research, please cite our preprint:
 - Nghia Hieu Nguyen
   - Email: [nghiangh@uit.edu.vn](mailto:nghiangh@uit.edu.vn)
 
-- Kiet Van Nguyen
+- PhD Kiet Van Nguyen
   - Email: [kietnv@uit.edu.vn](mailto:kietnv@uit.edu.vn)
 
-- Ngan Luu-Thuy Nguyen
+- Assoc. Prof Ngan Luu-Thuy Nguyen
   - Email: [ngannlt@uit.edu.vn](mailto:ngannlt@uit.edu.vn)
 
 ### Affiliations
