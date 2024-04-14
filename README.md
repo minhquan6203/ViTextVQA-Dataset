@@ -66,7 +66,7 @@ If you use ViTextVQA in your research, please cite our preprint:
 - Thang Kien-Bao Nguyen
   - Email: [21521432@gm.uit.edu.vn](mailto:21521432@gm.uit.edu.vn)
 
-- Nghia Hieu Nguyen
+- Bs Nghia Hieu Nguyen
   - Email: [nghiangh@uit.edu.vn](mailto:nghiangh@uit.edu.vn)
 
 - PhD Kiet Van Nguyen
