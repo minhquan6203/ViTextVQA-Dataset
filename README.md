@@ -31,12 +31,11 @@ Understanding text in images is crucial for many real-world applications, such a
 Researchers and developers can use ViTextVQA to train and evaluate their VQA models, analyze the performance of different approaches, and contribute to advancing research in this field. The dataset is freely available for research purposes.
 
 ## Contributions
-
 - Create the first high-quality large-scale dataset for text-based VQA task in Vietnamese, focusing on scene text and text appearing in the image.
 
-- Analyze the challenges of the ViTextVQA dataset by evaluating the performance of the OCR system.
+- Analyze the challenge of the ViTextVQA dataset by evaluating the performance of the OCR system.
 
-- Through our extensive experiments, we found that the T5-based methods behave as the answer selector methods when scene texts are suffixed questions.
+- Through our extensive experiments, we found that VQA models using ViT5 as their backbone behave as the answer selector methods when OCR text is suffixed for the question.
 
 - Our experiments showed the effectiveness of arranging from top-left to bottom-right, resulting in remarkable enhancements in the performance.
 
