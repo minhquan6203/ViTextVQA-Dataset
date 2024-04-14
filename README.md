@@ -49,7 +49,7 @@ You can find it at the following link: [ViTextVQA Dataset](link)
 
 If you use ViTextVQA in your research, please cite our preprint:
 
-[Authors. "Title of the Paper." Conference/Journal Name, Year.](link)
+[ViTextVQA: Vietnamese Text-based Visual Question Answering](link)
 
 ## Authors
 
