@@ -47,7 +47,7 @@ You can find it at the following link: [ViTextVQA Dataset](link)
 
 ## Citation
 
-If you use ViTextVQA in your research, please cite our preprint:
+If you use ViTextVQA dataset in your research, please cite our paper (preprint):
 
 [ViTextVQA: Vietnamese Text-based Visual Question Answering](link)
 
@@ -65,7 +65,7 @@ If you use ViTextVQA in your research, please cite our preprint:
 - Thang Kien-Bao Nguyen
   - Email: [21521432@gm.uit.edu.vn](mailto:21521432@gm.uit.edu.vn)
 
-- Bs Nghia Hieu Nguyen
+- BS Nghia Hieu Nguyen
   - Email: [nghiangh@uit.edu.vn](mailto:nghiangh@uit.edu.vn)
 
 - PhD Kiet Van Nguyen
@@ -83,4 +83,4 @@ If you use ViTextVQA in your research, please cite our preprint:
 
 For any inquiries or feedback regarding the ViTextVQA dataset, please contact  [21521333@gm.uit.edu.vn](mailto:21521333@gm.uit.edu.vn) or [haryquan.minh@gmail.com](mailto:haryquan.minh@gmail.com).
 
-Thank you for your interest in ViTextVQA! We hope this dataset contributes to the advancement of research in text-based Visual Question Answering in Vietnamese.
+Thank you for your interest in ViTextVQA! We hope this dataset contributes to the advancement of research in text-based Visual Question Answering around the world, especially in Vietnam.
