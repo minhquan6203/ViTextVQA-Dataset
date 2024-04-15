@@ -1,4 +1,4 @@
-ViTextVQA: Vietnamese Text-based Visual Question Answering
+ViTextVQA: A Large-Scale Visual Question Answering Dataset for Evaluating Vietnamese Text Comprehension in Images
 =====
 
 ![examples](examples.PNG)
@@ -49,7 +49,7 @@ You can find it at the following link: [ViTextVQA Dataset](link)
 
 If you use ViTextVQA dataset in your research, please cite our paper (preprint):
 
-[ViTextVQA: Vietnamese Text-based Visual Question Answering](link)
+[ViTextVQA: A Large-Scale Visual Question Answering Dataset for Evaluating Vietnamese Text Comprehension in Images](link)
 
 ## Authors
 
