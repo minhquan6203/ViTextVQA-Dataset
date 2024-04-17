@@ -49,7 +49,7 @@ You can find it at the following link: [ViTextVQA Dataset](link)
 
 If you use ViTextVQA dataset in your research, please cite our paper (preprint):
 
-[ViTextVQA: A Large-Scale Visual Question Answering Dataset for Evaluating Vietnamese Text Comprehension in Images](link)
+[ViTextVQA: A Large-Scale Visual Question Answering Dataset for Evaluating Vietnamese Text Comprehension in Images](https://arxiv.org/abs/2404.10652?fbclid=IwZXh0bgNhZW0CMTAAAR3PpvukmV1HQiByBngZmjfx-vfhgt0OGzKhHbvBPS8LmBzy3G-Wav3xDjg_aem_AXMs29kzZ0aAbsCvMwGfFE9torfSkfdW1FwE0Rv5cXgf1nlC9w4Q5xkTw5n8suGdz0faCfh8nQnauNrrr3-X9X0m)
 
 ## Authors
 
