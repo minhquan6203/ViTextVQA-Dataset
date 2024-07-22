@@ -43,8 +43,13 @@ Researchers and developers can use ViTextVQA to train and evaluate their VQA mod
 
 The ViTextVQA dataset will be available for download after our article is accepted.
 
-You can find it at the following link: [ViTextVQA Dataset](link)
+You can find it at the following link: [ViTextVQA Dataset](https://huggingface.co/datasets/minhquan6203/ViTextVQA)
 
+## Evaluation
+- [EM](https://www.kaggle.com/competitions/ViTextVQA-evaluation)
+- [F1](https://www.kaggle.com/competitions/ViTextVQA-F1-evaluation)
+
+Note that you should combine both dev and test files and submit them on Kaggle to get the most accurate evaluation results.
 ## Citation
 
 If you use ViTextVQA dataset in your research, please cite our paper (preprint):
